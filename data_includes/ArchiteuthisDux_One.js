@@ -166,7 +166,7 @@ var items = [
 [["ATTRAGREEROMANIAN-mismatchnoun",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul de lângă animale uneori",as: [['s','au'],['k','are']]}],
 [["ATTRAGREEROMANIAN-matchnoun",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tablourile de lângă animale uneori",as: [['s','au'],['k','are']]}],
 [["ATTRAGREEROMANIAN-mismatchadjective",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul de lângă animalele dungate uneori",as: [['s','au'],['k','are']]}],
-[["ATTRAGREEROMANIAN-matchnadjective",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tablourile de lângă animalele dungate uneori",as: [['s','au'],['k','are']]}],
+[["ATTRAGREEROMANIAN-matchadjective",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tablourile de lângă animalele dungate uneori",as: [['s','au'],['k','are']]}],
 [["ATTRAGREEROMANIAN-mismatchpron",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul de lângă ele uneori",as: [['s','au'],['k','are']]}],
 [["ATTRAGREEROMANIAN-matchpron",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tablourile de lângă ele uneori",as: [['s','au'],['k','are']]}],
 
